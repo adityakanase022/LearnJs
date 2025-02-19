@@ -18,4 +18,6 @@ object
 
 */
 
-console.log(typeof("aditya"));
+console.log(typeof("aditya")); //--> it is string 
+console.log(typeof null) //-->> it is of object type 
+console.log(typeof undefined); //--> undefined
